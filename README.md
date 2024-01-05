@@ -1,7 +1,5 @@
 # Getting Started with Create Instagram Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Instagram Clone
 
 Instagram Clone is a web application that replicates the core features of Instagram. It's built using React for the frontend.
